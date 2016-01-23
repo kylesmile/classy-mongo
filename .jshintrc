@@ -1,0 +1,7 @@
+{
+  "node": true,
+  "jasmine": true,
+  "asi": true,
+  "varstmt": true,
+  "esversion": 6
+}
