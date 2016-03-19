@@ -1,6 +1,6 @@
 {
   "name": "mongo_model",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Class-based Mongo models",
   "main": "index.js",
   "scripts": {
@@ -11,6 +11,7 @@
   ],
   "author": "Kyle Smith",
   "license": "MIT",
+  "repository": "kylesmile/classy-mongo",
   "dependencies": {
     "jasmine": "^2.4.1",
     "kerberos": "0.0.18",
