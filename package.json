@@ -1,5 +1,5 @@
 {
-  "name": "mongo_model",
+  "name": "classy-mongo",
   "version": "0.1.0",
   "description": "Class-based Mongo models",
   "main": "index.js",
