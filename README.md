@@ -1,5 +1,6 @@
 # classy-mongo
-## MongoDB-backed models using ES6 classes
+
+MongoDB-backed models using ES6 classes
 
 ## Installation
 
