@@ -14,7 +14,7 @@
   "repository": "kylesmile/classy-mongo",
   "dependencies": {
     "jasmine": "^2.4.1",
-    "kerberos": "0.0.18",
-    "mongodb": "^2.1.4"
+    "kerberos": "0.0.20",
+    "mongodb": "^2.1.18"
   }
 }
