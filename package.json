@@ -1,6 +1,6 @@
 {
   "name": "classy-mongo",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Class-based Mongo models",
   "main": "index.js",
   "scripts": {
@@ -13,8 +13,10 @@
   "license": "MIT",
   "repository": "kylesmile/classy-mongo",
   "dependencies": {
-    "jasmine": "^2.4.1",
-    "kerberos": "0.0.20",
+    "kerberos": "^0.0.21",
     "mongodb": "^2.1.18"
+  },
+  "devDependencies": {
+    "jasmine": "^2.4.1"
   }
 }
